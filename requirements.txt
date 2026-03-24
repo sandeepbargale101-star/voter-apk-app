@@ -1,0 +1,7 @@
+kivy
+pandas
+pytesseract
+pdf2image
+numpy
+plyer
+openpyxl
